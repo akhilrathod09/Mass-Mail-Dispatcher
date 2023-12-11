@@ -1,10 +1,10 @@
-EXPOSYS DATALABS INTERNSHIP
+                                                                       EXPOSYS DATALABS INTERNSHIP
 
 
-ROLE: FRONTEND WEB DEVELOPER
+                                                                       ROLE: FRONTEND WEB DEVELOPER
 
 
-PROJECT: MASS MAIL DISPATCHER
+                                                                       PROJECT: MASS MAIL DISPATCHER
 
 Introduction:
 The project aims to create a web application using React that allows users to send emails to a list of recipients from a CSV file. The application includes a user interface for entering the sender's email, subject, attaching a CSV file containing a list of email addresses, and entering the email message. Additionally, the application validates the email addresses from the CSV file and displays the valid and invalid ones separately.
@@ -18,10 +18,18 @@ Features:
 1. User Input Form:
 The main functionality of the application is implemented through a form that allows the user to input the following details:
 
+
 From Address: The email address from which the emails will be sent.
+
+
 Subject: The subject of the email.
+
+
 CSV File Input: Allows the user to upload a CSV file containing a list of email addresses.
+
+
 Message: The body of the email.
+
 
 2. CSV File Validation:
 The application validates the email addresses from the CSV file using a regular expression. Valid and invalid email addresses are separated, and the counts are displayed to the user.
