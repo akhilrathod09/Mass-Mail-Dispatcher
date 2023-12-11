@@ -2,7 +2,6 @@ Exposys Internship Project
 ROLE: WEB DEVELOPER
 PROJECT: MASS MAIL DISPATCHER
 
-
 Introduction:
 The project aims to create a web application using React that allows users to send emails to a list of recipients from a CSV file. The application includes a user interface for entering the sender's email, subject, attaching a CSV file containing a list of email addresses, and entering the email message. Additionally, the application validates the email addresses from the CSV file and displays the valid and invalid ones separately.
 
