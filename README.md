@@ -44,5 +44,3 @@ Enhance error handling and user feedback during the email sending process.
 Implement a progress indicator for the email sending process.
 Improve the overall user experience and add additional features based on user feedback.
 
-Conclusion:
-The project provides a foundation for a web application that facilitates bulk email sending. With further development, it can become a powerful tool for users who need to send emails to a large number of recipients. The current implementation focuses on the front-end and the CSV validation, and future work can extend the functionality to include secure and efficient email sending.
