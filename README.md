@@ -18,15 +18,11 @@ Features:
 1. User Input Form:
 The main functionality of the application is implemented through a form that allows the user to input the following details:
 
-
 From Address: The email address from which the emails will be sent.
-
 
 Subject: The subject of the email.
 
-
 CSV File Input: Allows the user to upload a CSV file containing a list of email addresses.
-
 
 Message: The body of the email.
 
