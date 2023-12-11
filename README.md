@@ -1,5 +1,9 @@
 Exposys Internship Project
+
+
 ROLE: FRONTEND WEB DEVELOPER
+
+
 PROJECT: MASS MAIL DISPATCHER
 
 Introduction:
