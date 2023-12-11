@@ -42,7 +42,7 @@ The application includes a function sendEmails() that, when triggered, is intend
 4. UI Styling:
 The user interface is designed using Tailwind CSS, providing a clean and responsive layout. The styling includes gradient backgrounds and text gradients for a visually appealing look.
 
-4<Usage Instructions:
+4>Usage Instructions:
 Enter the sender's email address, subject, and email message in the respective input fields.
 Upload a CSV file containing the list of recipient email addresses.
 Click the "Send Emails" button to trigger the email sending process (currently logging to the console).
