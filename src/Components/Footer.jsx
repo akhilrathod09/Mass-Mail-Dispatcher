@@ -11,7 +11,7 @@ const Footer = () => {
                         <span class="self-center text-xl font-semibold whitespace-nowrap text-black"> Mass Mail Dispatcher</span>
                 </div>
                 <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
-                <span class="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="https://google.com/" class="hover:underline">Mass Mail Dispatcher</a>. All Rights Reserved.</span>
+                <span class="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="https://mass-mail-dispatcher-two.vercel.app/" class="hover:underline">Mass Mail Dispatcher</a>. All Rights Reserved.</span>
             </div>
         </footer>
 
