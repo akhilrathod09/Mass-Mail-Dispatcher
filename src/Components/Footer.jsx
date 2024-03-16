@@ -12,7 +12,7 @@ const Footer = () => {
                         <div class="footer__col">
                              <h1>Get in Touch</h1>
                                <ul class="footer__links">
-                                  <li><a href="https://transcendent-sundae-2b02d9.netlify.app/">Contact me</a></li>
+                                  <li><a href="https://akhilrathod-portfolio.netlify.app/">Contact me</a></li>
                                   <li><a href="mailto:2021Chb1364@iitrpr.ac.in">Report here for any bugs!</a></li>
                                </ul>
                         </div>
